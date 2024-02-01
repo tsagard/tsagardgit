@@ -3,3 +3,4 @@ CHECK NEW COMMIT
 git pull origin main --allow-unrelated-histories
 then 
 git push -u origin main
+2) offline pushing changes.
