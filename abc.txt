@@ -2,6 +2,6 @@ this is push from local repo.
 CHECK NEW COMMIT
 git pull origin main --allow-unrelated-histories
 then 
-git push -u origin main
-2) offline pushing changes.
-added new branch.
+git push -u origin main.
+
+git diff, git amend.
