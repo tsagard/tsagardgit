@@ -5,3 +5,7 @@ then
 git push -u origin main.
 
 git diff, git amend.
+ =======================
+ adding new changes to chech git diff
+
+
