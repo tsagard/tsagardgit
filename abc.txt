@@ -8,4 +8,4 @@ git diff, git amend.
  =======================
  adding new changes to chech git diff
 
-
+git diff commit_id_1 coomit_id_2 
