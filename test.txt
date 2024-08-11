@@ -1,2 +1,1 @@
 first line - git init
-second line - git version
