@@ -1,2 +1,3 @@
 first line - git init
 second line - git version
+third line - git status
